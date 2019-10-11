@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/plaid/plaid-go/plaid"
+	"github.com/plaid/plaid-go/v2/plaid"
 )
 
 func handleError(err error) {

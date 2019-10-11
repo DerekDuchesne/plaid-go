@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/plaid/plaid-go/internal"
+	"github.com/plaid/plaid-go/v2/internal"
 )
 
 // APIVersion holds the latest version of the Plaid API
